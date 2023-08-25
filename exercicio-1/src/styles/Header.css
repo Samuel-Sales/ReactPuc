@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #9F91CC;
+    padding: 1em;
+}
+
+.container__logo {
+    width: 6.25em;
+}
+
+.container__links {
+    display: flex;
+    gap: 30px;
+}
+
+.container__botao {
+    text-decoration: none;
+    background-color: #EEE0C9;
+    padding: 0.7em;
+    border-radius: 5px;
+}
