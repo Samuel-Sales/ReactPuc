@@ -1,0 +1,14 @@
+.movie-item {
+    display: flex;
+}
+
+.btn {
+    padding: 0.4em;
+    margin-left: 1em;
+    background-color: rgb(164, 217, 241);
+    text-decoration: none;
+}
+
+.movie-excerpt h3 {
+    margin-left: 1em;
+}
