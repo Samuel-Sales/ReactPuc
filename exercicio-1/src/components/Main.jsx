@@ -52,18 +52,18 @@ const Main = () => {
 
                     <section className='box__sidebar'>
                         <h2>Notícias</h2>
-                        <a href="https://www.thewitcher.com/us/pt-br/">The Witcher 3</a>
-                        <a href="https://www.rocketleague.com/">Rocket League</a>
-                        <a href="https://blog.counter-strike.net/">CS:GO</a>
-                        <a href="https://www.ea.com/pt-br/games/ea-sports-fc/fc-24">EA FC 24</a>
-                        <a href="https://www.nomanssky.com/">No man's Sky</a>
-                        <a href="https://baldursgate3.game/">Baldur's Gate 3</a>
-                        <a href="https://diablo4.blizzard.com/en-us/">Diablo IV</a>
-                        <a href="https://nba.2k.com/2k23/">NBA 2K23</a>
-                        <a href="https://worldofwarcraft.blizzard.com/en-us/">WoW</a>
-                        <a href="https://www.dota2.com/home">Dota 2</a>
-                        <a href="https://playvalorant.com/pt-br/?">Valorant</a>
-                        <a href="https://www.cyberpunk.net/br/en/">CyberPunk 2077</a>
+                        <a href="https://www.thewitcher.com/us/pt-br/" target="_blank">The Witcher 3</a>
+                        <a href="https://www.rocketleague.com/" target="_blank">Rocket League</a>
+                        <a href="https://blog.counter-strike.net/" target="_blank">CS:GO</a>
+                        <a href="https://www.ea.com/pt-br/games/ea-sports-fc/fc-24" target="_blank">EA FC 24</a>
+                        <a href="https://www.nomanssky.com/" target="_blank">No man's Sky</a>
+                        <a href="https://baldursgate3.game/" target="_blank">Baldur's Gate 3</a>
+                        <a href="https://diablo4.blizzard.com/en-us/" target="_blank">Diablo IV</a>
+                        <a href="https://nba.2k.com/2k23/" target="_blank">NBA 2K23</a>
+                        <a href="https://worldofwarcraft.blizzard.com/en-us/" target="_blank">WoW</a>
+                        <a href="https://www.dota2.com/home" target="_blank">Dota 2</a>
+                        <a href="https://playvalorant.com/pt-br/?" target="_blank">Valorant</a>
+                        <a href="https://www.cyberpunk.net/br/en/" target="_blank">CyberPunk 2077</a>
                     </section>
                 </div>
             </main>
