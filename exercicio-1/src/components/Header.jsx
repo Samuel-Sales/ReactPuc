@@ -12,7 +12,7 @@ const Header = () => {
                 <li>Link3</li>
                 <li>Link4</li>
             </ul>
-            <a className='container__botao' href="http://Google.com">Entrar</a>
+            <a className='container__botao' href="#">Entrar</a>
         </header>
         </>
     );

@@ -51,18 +51,19 @@ const Main = () => {
                     </div>
 
                     <section className='box__sidebar'>
-                        <a href="">Section 1</a>
-                        <a href="">Section 2</a>
-                        <a href="">Section 3</a>
-                        <a href="">Section 4</a>
-                        <a href="">Section 5</a>
-                        <a href="">Section 6</a>
-                        <a href="">Section 7</a>
-                        <a href="">Section 8</a>
-                        <a href="">Section 9</a>
-                        <a href="">Section 10</a>
-                        <a href="">Section 11</a>
-                        <a href="">Section 12</a>
+                        <h2>Notícias</h2>
+                        <a href="https://www.thewitcher.com/us/pt-br/">The Witcher 3</a>
+                        <a href="https://www.rocketleague.com/">Rocket League</a>
+                        <a href="https://blog.counter-strike.net/">CS:GO</a>
+                        <a href="https://www.ea.com/pt-br/games/ea-sports-fc/fc-24">EA FC 24</a>
+                        <a href="https://www.nomanssky.com/">No man's Sky</a>
+                        <a href="https://baldursgate3.game/">Baldur's Gate 3</a>
+                        <a href="https://diablo4.blizzard.com/en-us/">Diablo IV</a>
+                        <a href="https://nba.2k.com/2k23/">NBA 2K23</a>
+                        <a href="https://worldofwarcraft.blizzard.com/en-us/">WoW</a>
+                        <a href="https://www.dota2.com/home">Dota 2</a>
+                        <a href="https://playvalorant.com/pt-br/?">Valorant</a>
+                        <a href="https://www.cyberpunk.net/br/en/">CyberPunk 2077</a>
                     </section>
                 </div>
             </main>

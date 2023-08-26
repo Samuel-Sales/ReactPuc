@@ -21,3 +21,7 @@
     padding: 0.7em;
     border-radius: 5px;
 }
+
+.container__botao:hover {
+    background-color: rgb(174, 248, 171);
+}

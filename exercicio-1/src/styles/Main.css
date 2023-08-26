@@ -13,13 +13,15 @@
 
 .box {
     display: flex;
+    padding-bottom: 1em;
 }
 
 .box__item p {
     border: 1px solid black;
     padding: 1em;
-    margin-left: 1em;
     width: 50%;
+    border-radius: 5px;
+    margin: 0 0 1em 1em;
 }
 
 .box__item {
@@ -29,6 +31,8 @@
 
 .box__item img {
     width: 30%;
+    border-radius: 5px;
+    margin: 0 0 1em 0;
 }
 
 .box__sidebar {
@@ -37,8 +41,12 @@
     gap: 20px;
     margin-right: 0.6em;
     border: 1px solid black;
-    padding: 1em;
+    width: 20%;
+    padding: 1.5em;
     background-color: #9F91CC;
+    text-align: center;
+    border-radius: 5px;
+    margin: 0 0 1em 0;
 }
 
 .box__sidebar a {
@@ -47,5 +55,9 @@
     padding: 0.8em;
     color: black;
     border-radius: 5px;
-    
+    text-align: center;
+}
+
+.box__sidebar a:hover {
+    background-color: rgb(174, 248, 171);
 }
