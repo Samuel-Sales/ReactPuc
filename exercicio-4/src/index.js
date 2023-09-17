@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import { Header } from './components/Header';
 import { MovieDetail } from './views/MovieDetails';
+import { Favoritos } from './views/Favoritos';
 import store from './store/store';
 import { Provider } from 'react-redux';
 
@@ -21,6 +22,11 @@ const router = createBrowserRouter([
       {
         path: '/movie/:id',
         element: <MovieDetail />
+      },
+
+      {
+        path: '/favoritos',
+        element: <Favoritos />
       }
     ],
   },
